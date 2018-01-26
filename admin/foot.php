@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; <span style="color:#FF5200">Woaik</span><span style="color:#0065FF">.Com</span> , Powered by <a href="http://www.51wddy.com" target="_blank">51无敌电影</a></div><?php 
